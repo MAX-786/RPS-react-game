@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RPS-react-game/static/css/main.b6107e81.css",
+    "main.css": "/RPS-react-game/static/css/main.9d75d663.css",
     "main.js": "/RPS-react-game/static/js/main.68c76910.js",
     "static/media/image-rules.svg": "/RPS-react-game/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
     "static/media/icon-paper.svg": "/RPS-react-game/static/media/icon-paper.8b57a6b108c1b8ae82931a39b10f96a2.svg",
@@ -9,11 +9,11 @@
     "static/media/icon-rock.svg": "/RPS-react-game/static/media/icon-rock.476e90a9646a87bb3645d2f09f4f7fba.svg",
     "static/media/icon-close.svg": "/RPS-react-game/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
     "static/media/bg-triangle.svg": "/RPS-react-game/static/media/bg-triangle.77c6ca418d3751d8f71789234314a8b9.svg",
-    "main.b6107e81.css.map": "/RPS-react-game/static/css/main.b6107e81.css.map",
+    "main.9d75d663.css.map": "/RPS-react-game/static/css/main.9d75d663.css.map",
     "main.68c76910.js.map": "/RPS-react-game/static/js/main.68c76910.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6107e81.css",
+    "static/css/main.9d75d663.css",
     "static/js/main.68c76910.js"
   ]
 }
